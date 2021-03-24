@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 
 ## Support
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grace-hephzibah&show_icons=true&locale=en&layout=compact" alt="grace-hephzibah" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grace-hephzibah&show_icons=true&locale=en" alt="grace-hephzibah" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=grace-hephzibah&show_icons=true&locale=en&layout=compact" alt="grace-hephzibah" />
+<img src="https://github-readme-stats.vercel.app/api?username=grace-hephzibah&show_icons=true&locale=en&theme=radical" alt="grace-hephzibah" />
+</p>
 
 ## Language and Tools Used
 <p>
