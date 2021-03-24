@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on simple projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grace-hephzibah&label=Profile%20views&color=0e75b6&style=flat" alt="grace-hephzibah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=grace-hephzibah&label=Profile%20views&color=ff69b4&style=plastic" alt="grace-hephzibah" /> </p>
 
 <p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grace-hephzibah" alt="grace-hephzibah" /></a> </p>
 
