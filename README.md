@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ## Interest
 - Listening to music
 - Writing Technical Blogs
-- Trekking
 - Cooking
-- Travelling to new places
+- Skething a design 
+- And yea! Coding
 
  ## You can contact me here 👉 <a href="https://linkedin.com/in/grace-hephzibah-m-937335204">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
