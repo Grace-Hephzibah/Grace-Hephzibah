@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center">Guten Tag! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Grace Hephzibah </h1>
 <h3 align="center">I love to learn, explore and collaborate</h3>
 
-- 🔭 I’m currently working on Local Hack Day from MLH.
-- 🌱 I’m currently learning many areas one of which is Data Structures and Algorithms
+- 🔭 I’m currently working on a Badge Creator project in Tkinter.
+- 🌱 I’m currently learning  Data Structures and Algorithms
 - 👯 I’m looking to collaborate on simple projects
+- 😄 Pronouns: She / her
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grace-hephzibah&label=Profile%20views&color=ff69b4&style=plastic" alt="grace-hephzibah" /> </p>
 
