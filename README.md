@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Badge Creator project in Tkinter.
 - 🌱 I’m currently learning  Data Structures and Algorithms
 - 👯 I’m looking to collaborate on simple projects
+- 💬 Subscribe to my <a href = "https://codershq.substack.com/p/coming-soon?r=kp4lf&utm_campaign=post&utm_medium=web&utm_source=copy"> Coder's HQ </a> Blog.
+- 🤔 I’m looking for help with SQL integration with python
+- 📫 Write a blog request to coders_hq@hotmail.com
 - 😄 Pronouns: She / her
+- ⚡ Fun fact: I like competitive programming
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grace-hephzibah&label=Profile%20views&color=ff69b4&style=plastic" alt="grace-hephzibah" /> </p>
 
