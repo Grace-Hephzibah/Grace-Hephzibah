@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 <h1 align="center">Guten Tag! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Grace Hephzibah </h1>
 <h3 align="center">I love to learn, explore and collaborate</h3>
 
-- 🔭 I’m currently working on a Badge Creator project in Tkinter.
-- 🌱 I’m currently learning  Data Structures and Algorithms
-- 👯 I’m looking to collaborate on simple projects
+- 🔭 I’m currently working on a Typing Test Project with Player Inventory using Python.
+- 🌱 I’m currently learning  DSA and C++ Advanced Topics
+- 👯 I’m looking to collaborate on simple and interesting projects
 - 💬 Subscribe to my <a href = "https://codershq.substack.com/p/coming-soon?r=kp4lf&utm_campaign=post&utm_medium=web&utm_source=copy"> Coder's HQ </a> Blog.
-- 🤔 I’m looking for help with SQL integration with python
+- 🤔 I’m planning on learning SQL next.
 - 📫 Write a blog request to coders_hq@hotmail.com
-- 😄 Pronouns: She / her
-- ⚡ Fun fact: I like competitive programming
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grace-hephzibah&label=Profile%20views&color=ff69b4&style=plastic" alt="grace-hephzibah" /> </p>
 
