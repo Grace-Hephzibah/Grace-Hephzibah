@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Guten Tag! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Grace Hephzibah </h1>
 <h3 align="center">I love to learn, explore and collaborate</h3>
 
-- 🔭 I’m currently working on a Typing Test Project with Player Inventory using Python.
+- 🔭 I’m currently working on a pygame ideas
 - 🌱 I’m currently learning  DSA and C++ Advanced Topics
 - 👯 I’m looking to collaborate on simple and interesting projects
 - 💬 Subscribe to my <a href = "https://codershq.substack.com/p/coming-soon?r=kp4lf&utm_campaign=post&utm_medium=web&utm_source=copy"> Coder's HQ </a> Blog.
