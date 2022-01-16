@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  DSA and C++ Advanced Topics
 - 👯 I’m looking to collaborate on simple and interesting projects
 - 💬 Subscribe to my <a href = "https://codershq.substack.com/p/coming-soon?r=kp4lf&utm_campaign=post&utm_medium=web&utm_source=copy"> Coder's HQ </a> Blog.
-- 🤔 I’m planning on learning SQL next.
+- 🤔 I and simultaneously learning DSA and Data Science .
 - 📫 Write a blog request to coders_hq@hotmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grace-hephzibah&label=Profile%20views&color=ff69b4&style=plastic" alt="grace-hephzibah" /> </p>
