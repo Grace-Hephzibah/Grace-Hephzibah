@@ -1,3 +1,41 @@
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Grace Hephzibah </h1>
+<h3 align="center">I love to learn, explore and collaborate</h3>
+
+- 🔭 Working On Cool Machine Learning Projects 
+- 🌱 Exploring The Field Of AI
+- 🎧 Solving DSA Problems 
+
+## Language and Tools Used
+<p>
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
+ 
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ </p>
+ 
+## Interest
+- 🚘 Driving
+- ✍🏻 Writing Bible Blogs
+- 👟 Running
+- 🎶 Listening to music
+
+ ## You can contact me here 👉 <a href="https://linkedin.com/in/grace-hephzibah-m-937335204">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+ 
+
+ # Grace Hephzibah M
+
+
+
+
 <!--
 **Grace-Hephzibah/Grace-Hephzibah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +50,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <h1 align="center">Guten Tag! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Grace Hephzibah </h1>
 <h3 align="center">I love to learn, explore and collaborate</h3>
 
@@ -57,3 +97,4 @@ Here are some ideas to get you started:
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grace-hephzibah" alt="grace-hephzibah-m" /></p>
  
  # Grace Hephzibah M
+-->
