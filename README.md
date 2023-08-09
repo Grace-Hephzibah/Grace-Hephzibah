@@ -22,10 +22,8 @@
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
  </p>
  
-## Interest
-- 🚘 Driving
+## Hobbies
 - ✍🏻 Writing Bible Blogs
-- 👟 Running
 - 🎶 Listening to music
 
  ## You can contact me here 👉 <a href="https://linkedin.com/in/grace-hephzibah-m-937335204">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
